@@ -16,7 +16,7 @@
             android:layout_height="?attr/actionBarSize"
             app:menu="@menu/menu_principal"
             app:navigationIcon="@drawable/baseline_navigate_before"
-            app:title="Loja ABC"/>
+            app:title="Loja ABC" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
